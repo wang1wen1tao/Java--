@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="entity.Borrow"/>
+<fullyQualifiedTypeName name="entity.Book"/>
+<fullyQualifiedTypeName name="entity.Reader"/>
+<fullyQualifiedTypeName name="data.BookDao"/>
+<fullyQualifiedTypeName name="data.BaseDao"/>
+</qualifiedTypeNameHistroy>
